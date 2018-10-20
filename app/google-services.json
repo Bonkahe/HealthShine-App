@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1014733717554",
+    "firebase_url": "https://healthshine-27550.firebaseio.com",
+    "project_id": "healthshine-27550",
+    "storage_bucket": "healthshine-27550.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014733717554:android:2036ff1d295dd016",
+        "android_client_info": {
+          "package_name": "com.example.bonka.healthshine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014733717554-5hst18j9qf130v7b9b6shandpnr873cb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bonka.healthshine",
+            "certificate_hash": "8e8bfd6dc19f23b6be58762808a5d8a3a465cb3d"
+          }
+        },
+        {
+          "client_id": "1014733717554-06v6phvbtj5lca5omurqnr9veq6jqioo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXmpv-AENLJY65olLpy7s9N62UxGQSCF0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014733717554-06v6phvbtj5lca5omurqnr9veq6jqioo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
