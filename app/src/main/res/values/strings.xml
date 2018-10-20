@@ -1,3 +1,75 @@
 <resources>
     <string name="app_name">HealthShine</string>
+    <string name="county_prompt">Choose a county</string>
+
+    <string-array name="county_arrays">
+        <item>Autauga</item>
+        <item>Baldwin</item>
+        <item>Barbour</item>
+        <item>Bibb</item>
+        <item>Blount</item>
+        <item>Bullock</item>
+        <item>Butler</item>
+        <item>Calhoun</item>
+        <item>Chambers</item>
+        <item>Cherokee</item>
+        <item>Chilton</item>
+        <item>Choctaw</item>
+        <item>Clarke</item>
+        <item>Clay</item>
+        <item>Cleburne</item>
+        <item>Coffee</item>
+        <item>Colbert</item>
+        <item>Conecuh</item>
+        <item>Coosa</item>
+        <item>Covington</item>
+        <item>Crenshaw</item>
+        <item>Cullman</item>
+        <item>Dale</item>
+        <item>Dallas</item>
+        <item>DeKalb</item>
+        <item>Elmore</item>
+        <item>Escambia</item>
+        <item>Etowah</item>
+        <item>Fayette</item>
+        <item>Franklin</item>
+        <item>Geneva</item>
+        <item>Greene</item>
+        <item>Hale</item>
+        <item>Henry</item>
+        <item>Houston</item>
+        <item>Jackson</item>
+        <item>Jefferson</item>
+        <item>Lamar</item>
+        <item>Lauderdale</item>
+        <item>Lawrence</item>
+        <item>Lee</item>
+        <item>Limestone</item>
+        <item>Lowndes</item>
+        <item>Macon</item>
+        <item>Madison</item>
+        <item>Marengo</item>
+        <item>Marion</item>
+        <item>Marshall</item>
+        <item>Mobile</item>
+        <item>Monroe</item>
+        <item>Montgomery</item>
+        <item>Morgan</item>
+        <item>Perry</item>
+        <item>Pickens</item>
+        <item>Pike</item>
+        <item>Randolph</item>
+        <item>Russell</item>
+        <item>St. Clair</item>
+        <item>Shelby</item>
+        <item>Sumter</item>
+        <item>Talladega</item>
+        <item>Tallapoosa</item>
+        <item>Tuscaloosa</item>
+        <item>Walker</item>
+        <item>Washington</item>
+        <item>Wilcox</item>
+        <item>Winston</item>
+
+    </string-array>
 </resources>
