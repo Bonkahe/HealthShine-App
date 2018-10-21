@@ -59,6 +59,7 @@ public class MainPage extends AppCompatActivity {
     }
 
     private void post() {
+        m_Data.setDate();
         m_Data.setLatLng(m_Place.getLatLng());
         for (int i = 0; i < m_Symptomview.getChildCount(); i++) {
             CheckBox v = (CheckBox) m_Symptomview.getChildAt(i);

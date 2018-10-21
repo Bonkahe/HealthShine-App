@@ -3,16 +3,27 @@ package com.supnerd.bonka.healthshine;
 import com.google.android.gms.maps.model.LatLng;
 
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.HashMap;
 
 public class Data {
 
+    String CurrentDate;
     String ZipCode;
     ArrayList<String> Symptoms;
     LatLng latLng;
 
     public Data() {
         Symptoms = new ArrayList<>();
+    }
+
+    public String getDate() {
+        return CurrentDate;
+    }
+
+    public void setDate() {
+        Date date = new Date();
+        CurrentDate = date.toString();
     }
 
     public String getZipCode() {
@@ -51,6 +62,7 @@ public class Data {
     public HashMap generateHashMap() {
         HashMap data = new HashMap();
         HashMap symptoms = new HashMap();
+        data.put("Date", CurrentDate);
         data.put("Lat", latLng.latitude);
         data.put("Lng", latLng.longitude);
         int i = 0;
