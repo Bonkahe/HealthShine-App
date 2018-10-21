@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "1014733717554",
-    "firebase_url": "https://healthshine-27550.firebaseio.com",
-    "project_id": "healthshine-27550",
-    "storage_bucket": "healthshine-27550.appspot.com"
+    "project_number": "508254792196",
+    "firebase_url": "https://healthshine-9220b.firebaseio.com",
+    "project_id": "healthshine-9220b",
+    "storage_bucket": "healthshine-9220b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1014733717554:android:2036ff1d295dd016",
+        "mobilesdk_app_id": "1:508254792196:android:61a9e940477d29d8",
         "android_client_info": {
-          "package_name": "com.example.bonka.healthshine"
+          "package_name": "com.supnerd.bonka.healthshine"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1014733717554-5hst18j9qf130v7b9b6shandpnr873cb.apps.googleusercontent.com",
+          "client_id": "508254792196-unkncailkqomltpa8brkr4nr2t2v2nnh.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.bonka.healthshine",
-            "certificate_hash": "8e8bfd6dc19f23b6be58762808a5d8a3a465cb3d"
+            "package_name": "com.supnerd.bonka.healthshine",
+            "certificate_hash": "03c6325c2698f0a5c3a3b80ddaa1fa54a8ec836e"
           }
         },
         {
-          "client_id": "1014733717554-06v6phvbtj5lca5omurqnr9veq6jqioo.apps.googleusercontent.com",
+          "client_id": "508254792196-k5s53tm3g09jb93g0bjqactkt1ko5fbc.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDXmpv-AENLJY65olLpy7s9N62UxGQSCF0"
+          "current_key": "AIzaSyCQEsPALybxcSKrjT7OL4t1-1KX3ZkAsIc"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "1014733717554-06v6phvbtj5lca5omurqnr9veq6jqioo.apps.googleusercontent.com",
+              "client_id": "508254792196-k5s53tm3g09jb93g0bjqactkt1ko5fbc.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
