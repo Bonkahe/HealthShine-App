@@ -7,11 +7,11 @@ Our goal for the present is to allow for a small subset of symptoms and weather 
 
 The team consisted of five people.
 
-Micheal House https://github.com/mjhouse
-Viraj Sanghvi https://github.com/VirajSanghvi1
-Joanna Pease https://github.com/Joanna-G
-Enkur Shah https://github.com/Ankshah13
-David House https://github.com/Bonkahe
+* Micheal House https://github.com/mjhouse
+* Viraj Sanghvi https://github.com/VirajSanghvi1
+* Joanna Pease https://github.com/Joanna-G
+* Enkur Shah https://github.com/Ankshah13
+* David House https://github.com/Bonkahe
 
 ### HealthShine was developed at Space Apps Hackathon in Huntsville AL.
 
