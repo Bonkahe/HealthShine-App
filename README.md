@@ -9,4 +9,4 @@ The accompanying github repo for the app can be found at: https://github.com/mjh
 
 The team consisted of five people.
 
-@mjhouse/healthshine Micheal House.
+@mjhouse Micheal House.
