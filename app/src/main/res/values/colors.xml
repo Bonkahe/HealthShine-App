@@ -10,4 +10,7 @@
     <color name="blue_gray">#093153</color>
     <color name="gray">#878787</color>
     <color name="off_white">#f4f5f7</color>
+    <color name="test">#ffffff</color>
+    <color name="test2">#ffffff</color>
+    <color name="test3">#ffff03</color>
 </resources>

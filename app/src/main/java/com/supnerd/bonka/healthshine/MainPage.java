@@ -54,8 +54,17 @@ public class MainPage extends AppCompatActivity {
                 post();
                 String toastMsg = String.format("Place: %s", place.getName());
                 Toast.makeText(this, toastMsg, Toast.LENGTH_LONG).show();
+
+                sendUserToThankyou();
             }
         }
+    }
+
+    private void sendUserToThankyou() {
+        Intent mainIntent = new Intent(this, Thanks.class);
+        mainIntent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
+        startActivity(mainIntent);
+        finish();
     }
 
     private void post() {

@@ -20,7 +20,7 @@
 
     <HorizontalScrollView
         android:layout_width="350dp"
-        android:layout_height="371dp"
+        android:layout_height="263dp"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
@@ -45,7 +45,7 @@
         android:id="@+id/textView4"
         android:layout_width="349dp"
         android:layout_height="51dp"
-        android:layout_marginTop="8dp"
+        android:layout_marginTop="40dp"
         android:fontFamily="@font/acme"
         android:text="Please select your symptoms below."
         android:textAlignment="center"
