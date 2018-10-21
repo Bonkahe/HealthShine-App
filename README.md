@@ -15,6 +15,6 @@ The team consisted of five people.
 
 ### HealthShine was developed at Space Apps Hackathon in Huntsville AL.
 
-All code is open source and free for public use. This repo is one part of a two part project, this one is the website side of the project, the other is the companion Android app.
+All code is open source and free for public use. This repo is one part of a two part project, this one is the Android app, the other is the companion website.
 
 The accompanying github repo for the app can be found at: https://github.com/mjhouse/healthshine
