@@ -6,3 +6,7 @@ HealthShine will be an App and website that work together to allow people to inp
 Our goal for the present is to allow for a small subset of symptoms and weather data to be tracked and displayed by county in Alabama. We hope to expand to include a greater area, more extensive weather information, a larger number of symptoms, and eventually the ability to provide likely diagnoses based on symptoms.
 
 The accompanying github repo for the app can be found at: https://github.com/mjhouse/healthshine
+
+The team consisted of five people.
+
+@mjhouse/healthshine Micheal House.
